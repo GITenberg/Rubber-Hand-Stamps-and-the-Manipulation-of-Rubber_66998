@@ -1,0 +1,31 @@
+_repo: Rubber-Hand-Stamps-and-the-Manipulation-of-Rubber_66998
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sloane, T. O'Conor (Thomas O'Conor)
+    alias: Sloane, Thomas O'Conor
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '32077'
+    url: http://www.gutenberg.org/2009/agents/32077
+    wikipedia: http://en.wikipedia.org/wiki/T._O'Conor_Sloane
+description: ''
+gutenberg_issued: '2021-12-23'
+identifiers:
+  gutenberg: '66998'
+language: en
+pgterms:marc904: https://archive.org/details/rubberhandstamps01sloa
+pgterms:marc905: 20210421073531sloane
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: deaurider, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Norman W. Henley,1890,pubdate 1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rubber Hand Stamps and the Manipulation of Rubber
+url: http://www.gutenberg.org/ebooks/66998
