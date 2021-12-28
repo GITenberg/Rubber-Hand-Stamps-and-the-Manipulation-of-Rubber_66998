@@ -1,5 +1,8 @@
 _repo: Rubber-Hand-Stamps-and-the-Manipulation-of-Rubber_66998
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66998-h/images/cover.jpg
 creator:
   author:
     agent_name: Sloane, T. O'Conor (Thomas O'Conor)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32077
     wikipedia: http://en.wikipedia.org/wiki/T._O'Conor_Sloane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66998#Rubber-Hand-Stamps-and-the-Manipulation-of-Rubber
 gutenberg_issued: '2021-12-23'
 identifiers:
   gutenberg: '66998'
